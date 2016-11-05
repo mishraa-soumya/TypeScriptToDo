@@ -1,0 +1,20 @@
+{
+  "name": "angular_app",
+  "description": "Test app",
+  "main": "app.js",
+  "authors": [
+    "Tech Rich"
+  ],
+  "license": "MIT",
+  "homepage": "home.html",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "^1.5.8"
+  }
+}
